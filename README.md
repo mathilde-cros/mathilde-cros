@@ -8,7 +8,7 @@ I'm Mathilde Cros and I am currently a French student in the Bachelor of Science
 
 💬 You can also learn more about me on my [LinkedIn profile](https://www.linkedin.com/in/mathilde-cros2).
 
-📚 My main work interests are Machine Learning and Deep Learning and their various applications, from healthcare to business. 
+📚 My main work interests are Machine Learning and Deep Learning and their various applications, from healthcare to financial technologies. 
 
 😄 During these past two years, I have worked on different projects and tutorials which you will find the code of on this page! Feel free to reach out if you have any comments or questions!
 
