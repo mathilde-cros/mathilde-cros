@@ -10,8 +10,4 @@ I'm Mathilde Cros and I am currently a French student in the Bachelor of Science
 
 📚 My main work interests are Machine Learning and Deep Learning and their various applications, from healthcare to financial technologies. 
 
-😄 During these past two years, I have worked on different projects and tutorials which you will find the code of on this page! Feel free to reach out if you have any comments or questions!
-
 👯 I am always eager to learn more and vary my experiences, so feel free to reach out to me for potential collaborations on new ideas and projects!
-
-🔎 PS: I am also looking for a project to take on during my **Bachelor Thesis** from mid-January to March  2024...
